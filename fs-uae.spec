@@ -7,7 +7,7 @@ Summary:	Amiga Emulator with focus on emulating games
 Summary(pl.UTF-8):	Emulator Amigi skupiający się na grach
 Name:		fs-uae
 Version:	3.2.35
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Emulators
 Source0:	https://github.com/FrodeSolheim/fs-uae/releases/download/v%{version}/%{name}-%{version}.tar.xz
